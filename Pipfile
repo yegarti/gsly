@@ -5,9 +5,7 @@ name = "pypi"
 
 [packages]
 youtube-dl = "*"
-"beautifulsoup4" = "*"
 requests = "*"
-google-api-python-client = "*"
 
 [dev-packages]
 
